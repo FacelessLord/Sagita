@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a535b113_002D0667_002D4b59_002D9d39_002De87b2646fca5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TokenParserContextParsingTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::55D51887-6CA6-4BD4-AB5F-1A45CA2CCF32::net6.0::ParserTests.GrammarParser.TokenParserContextParsingTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::55D51887-6CA6-4BD4-AB5F-1A45CA2CCF32::net6.0::ParserTests.GrammarParser.TokenParserCaseParsingTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::55D51887-6CA6-4BD4-AB5F-1A45CA2CCF32::net6.0::ParserTests.GrammarParser.TokenParserRuleParsingTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
